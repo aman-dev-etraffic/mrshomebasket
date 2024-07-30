@@ -1,11 +1,11 @@
 # mrshomebasket
-I have created an E-commerce store using Laravel. Where customers can purchase the products add to cart product and make an account on site. I have established the site on Heroku platform. >> http://mrshomebasket.codeyear2023.com/
+I have created an E-commerce store using Laravel. Where customers can purchase the products add to cart product and make an account on site. I have established the site on Heroku platform. >> http://mrshomebasket.codeyear2024.com/
 
 <h2>1) Developed the site from scratch</h2>
 
 I have developed and designed the site from scratch, The purpose of creating a store is that customers can buy everything they want and register their account. I have created add to cart functionality and added payment method. If the customer wants to view the cart, they must register their account first. If they already have an account, they can view the cart or place an order when they are logged into his account. And also the customer can see products based on the categories and I have also applied the filter on the category page. I have implemented quick view functionality and also customer can Wishlist the product. I have implemented the related product functionality on the product page. And the customer can give a review of the product. This is also implemented on the product page. I have also implemented social login functionality. And customers will have their dashboard where they can see their orders reviews and comments and they can generate a pdf of their orders and user can also track their orders. And User can manage their account like they can add update password and profile image.
 
-http://mrshomebasket.codeyear2023.com/
+http://mrshomebasket.codeyear2024.com/
 
 <h3>Back-end</h3>
 
@@ -13,7 +13,7 @@ I have created full admin dashboard from where admin can manage everything like 
 
 <img src="https://user-images.githubusercontent.com/101111690/217742617-e2af359a-eb90-4c15-9f9f-e176b1e36448.png">
 
-http://mrshomebasket.codeyear2023.com/admin
+http://mrshomebasket.codeyear2024.com/admin
 
 <h2>2) How can we register to make a user account?</h2>
 
